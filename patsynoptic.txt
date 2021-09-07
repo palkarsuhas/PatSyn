@@ -1,0 +1,13 @@
+VPN Access --> Check whether you will be access to dedallus projects , jira etc
+
+once accessed : need to check the following
+
+
+Product name : Patient synoptic --> how many modules exist?
+
+
+Module to test in manual
+
+Module to test in automation
+
+

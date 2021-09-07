@@ -1,0 +1,65 @@
+
+Over view of the business component
+
+Patient Synoptic
+
+will test this component in both ways  --> Manual and automatic
+Most of this component was written in component
+Prepare Test plan and executed
+
+component of dedalus solution
+Clinical data
+clinical report
+Clinical documents
+Medical history
+
+Provides s/w for the easyon to be made by users as physisan, nurses and health care provides
+
+Clinical dashboard
+diag reports
+documents
+
+Basic Search or advanced search
+Click on the patient --> pop up will come to reason for motivation for access --> On selecting motovation,"Access patient data" is getting enabled --> on clicking access patient data --> clinical dashboard page is getting displayed
+
+
+contains of information --> patient logged , languged used, patient banner 
+
+Banner containts --> patient information and clinical information like allergies , procedure
+
+dash board -- contains in the form of widgets
+	Body temp
+	ECG
+	observation
+	querioner
+user can remove the wiget
+Can change the widget view
+	table
+	Graph
+dashboard can be configurated it to report information useful for treatment for some diseases
+
+Diagonistic reports - menu
+	represents medical history of the patient
+	seeing timeline
+		can be seen particular event of the patient
+		we can search reprots based on the timeline search
+		on clicking on the action --> four icons are displaying
+			Green- External Viewer
+			upload
+			tagging
+		reports - attachments and images
+
+			
+
+	
+
+
+
+
+
+
+
+
+Clinical dashboard
+	i-
+-From dashboard / clinical view -->Widgets can be customized according to the users wish and can be save it with same to refer
